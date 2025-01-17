@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @smanriquez96, Sebastian Manriquez, from Santiago, Chile.
-- 👀 I’m interested professionaly in Software Development, human behaiviour, project management, teamwork efficiency, coding in general, agile development, among other subjects.Personally in sports, specifically: football, cycling, running, tennis and climbing.
-- 💞️ I’m looking to collaborate on software projects that have social impact, projects that require data analytics, modeling and engineering application. Projects that can challange me and as a by product I can learn, gain experience and most important have a good time and have professional and personal satisfaction.
-- 📫 How to reach me, email me to: sebamanriquez96@gmail.com
+# 👋 Hi, I’m @smanriquez96, Sebastian Manriquez  
 
-<!---
-smanriquez96/smanriquez96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 From Santiago, Chile  
+
+I’m passionate about software development and how technology can make a meaningful impact in the world. Currently, I work as an Engineer Manager, where I lead a talented team of developers to create robust, scalable, and innovative solutions.  
+
+Outside of work, I’m a triathlete who thrives on challenges, whether it's coding a complex system or crossing the finish line in a grueling race. My interests also include:  
+- **Professionally**: Software development, human behavior, project management, teamwork efficiency, agile practices, and exploring ways to make coding and collaboration more effective.  
+- **Personally**: Sports like football, cycling, running, tennis, and swimming keep me energized and focused.  
+
+💡 I love collaborating on impactful software projects, particularly those that involve data analytics, modeling, and creative engineering solutions. I’m always looking for opportunities to learn, grow, and enjoy the journey while achieving professional and personal satisfaction.  
+
+📫 Feel free to reach out at **sebamanriquez96@gmail.com**. Let’s build something amazing together!  
