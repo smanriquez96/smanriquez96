@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @smanriquez96, Sebastian Manriquez  
 
-🌍 From Santiago, Chile. Living in Berkley, California.
+🌍 From Santiago, Chile. Living in Berkeley, California.
 
 👀 I’m passionate about software development and how technology can make a meaningful impact on the world. Currently, I work as an Engineer Manager, leading a talented team of developers to build robust, scalable, and innovative solutions.  
 
